@@ -33,3 +33,5 @@ class Movie(models.Model):
         return self.mname
 
 
+class Student(models.Model):
+    sname = models.CharField(max_length=30)

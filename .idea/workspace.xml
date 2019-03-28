@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c7d84732-080e-4dd3-b96e-9de7952e1a0c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stuapp/my_filter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stuapp/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/stuapp/models.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -68,7 +70,7 @@
         <counts>
           <entry key="Django Console" value="201" />
           <entry key="cell" value="32" />
-          <entry key="py" value="1363" />
+          <entry key="py" value="1463" />
           <entry key="py@DRF_20190325" value="73" />
           <entry key="sql" value="1" />
         </counts>
@@ -76,7 +78,7 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CommandLine" value="73" />
-          <entry key="Python" value="1564" />
+          <entry key="Python" value="1664" />
           <entry key="SQL" value="1" />
           <entry key="Scratch" value="32" />
         </counts>
@@ -84,7 +86,7 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="django_migrations" value="2" />
-          <entry key="py" value="33" />
+          <entry key="py" value="35" />
           <entry key="sql" value="1" />
           <entry key="stuapp_actor" value="5" />
           <entry key="stuapp_movie" value="6" />
@@ -93,7 +95,7 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Database Element" value="13" />
-          <entry key="Python" value="33" />
+          <entry key="Python" value="35" />
           <entry key="Scratch" value="1" />
         </counts>
       </usages-collector>
@@ -101,15 +103,36 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/stuapp/serializers.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="493">
-              <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
+            <state relative-caret-position="368">
+              <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
               <folding>
                 <element signature="e#0#38#0" expanded="true" />
                 <marker date="1553671829862" expanded="true" signature="133:140" ph="..." />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/stuapp/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="442">
+              <caret line="36" column="42" selection-start-line="36" selection-start-column="42" selection-end-line="36" selection-end-column="42" />
+              <folding>
+                <marker date="1553742470288" expanded="true" signature="922:967" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/stuapp/my_filter.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="5" selection-start-column="5" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -134,8 +157,9 @@
         <option value="$PROJECT_DIR$/stuapp/urls.py" />
         <option value="$PROJECT_DIR$/stuapp/views.py" />
         <option value="$PROJECT_DIR$/DRF_20190325/settings.py" />
-        <option value="$PROJECT_DIR$/stuapp/models.py" />
         <option value="$PROJECT_DIR$/stuapp/serializers.py" />
+        <option value="$PROJECT_DIR$/stuapp/models.py" />
+        <option value="$PROJECT_DIR$/stuapp/my_filter.py" />
       </list>
     </option>
   </component>
@@ -247,8 +271,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26865673" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26865673" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Database Console" order="0" weight="0.329718" />
@@ -263,8 +288,8 @@
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="10" weight="0.18329719" />
       <window_info active="true" anchor="bottom" id="manage.py@DRF_20190325" order="11" visible="true" weight="0.329718" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="12" visible="true" weight="0.330076" />
-      <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="12" sideWeight="0.49946696" visible="true" weight="0.330076" />
+      <window_info anchor="bottom" id="Event Log" order="13" sideWeight="0.50053304" side_tool="true" weight="0.330076" />
       <window_info anchor="bottom" id="Python Console" order="14" weight="0.329718" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -351,13 +376,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/stuapp/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="700">
-          <caret line="28" column="5" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/DRF_20190325/settings.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="518">
@@ -384,12 +402,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/stuapp/serializers.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
+        <state relative-caret-position="368">
+          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
           <folding>
             <element signature="e#0#38#0" expanded="true" />
             <marker date="1553671829862" expanded="true" signature="133:140" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stuapp/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="36" column="42" selection-start-line="36" selection-start-column="42" selection-end-line="36" selection-end-column="42" />
+          <folding>
+            <marker date="1553742470288" expanded="true" signature="922:967" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stuapp/my_filter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="5" selection-start-column="5" selection-end-column="5" />
         </state>
       </provider>
     </entry>
