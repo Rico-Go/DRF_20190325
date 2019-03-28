@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c7d84732-080e-4dd3-b96e-9de7952e1a0c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/stuapp/my_filter.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stuapp/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/stuapp/models.py" afterDir="false" />
-    </list>
+    <list default="true" id="c7d84732-080e-4dd3-b96e-9de7952e1a0c" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,15 +66,17 @@
         <counts>
           <entry key="Django Console" value="201" />
           <entry key="cell" value="32" />
-          <entry key="py" value="1463" />
+          <entry key="py" value="1532" />
           <entry key="py@DRF_20190325" value="73" />
           <entry key="sql" value="1" />
+          <entry key="txt" value="43" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CommandLine" value="73" />
-          <entry key="Python" value="1664" />
+          <entry key="PLAIN_TEXT" value="43" />
+          <entry key="Python" value="1733" />
           <entry key="SQL" value="1" />
           <entry key="Scratch" value="32" />
         </counts>
@@ -97,6 +95,11 @@
           <entry key="Database Element" value="13" />
           <entry key="Python" value="35" />
           <entry key="Scratch" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.vcs.git.usages">
+        <counts>
+          <entry key="git.branch.create.new" value="1" />
         </counts>
       </usages-collector>
     </session>
@@ -131,8 +134,12 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/stuapp/my_filter.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="5" selection-start-column="5" selection-end-column="5" />
+            <state relative-caret-position="175">
+              <caret line="7" column="20" lean-forward="true" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+              <folding>
+                <element signature="e#0#35#0" expanded="true" />
+                <marker date="1553742579306" expanded="true" signature="118:123" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -149,6 +156,11 @@
   <component name="Git.Settings">
     <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -267,11 +279,18 @@
       <option name="presentableId" value="Default" />
       <updated>1553480220648</updated>
     </task>
+    <task id="LOCAL-00001" summary="add student model and my_filter">
+      <created>1553742673041</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1553742673041</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26865673" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -303,6 +322,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add student model and my_filter" />
+    <option name="LAST_COMMIT_MESSAGE" value="add student model and my_filter" />
   </component>
   <component name="editorHistoryManager">
     <entry file="das://308ac9b4-bbbf-4f7c-b2f8-a85f08987411/schema/main/table/stuapp_actor" />
@@ -423,8 +446,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/stuapp/my_filter.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="5" selection-start-column="5" selection-end-column="5" />
+        <state relative-caret-position="175">
+          <caret line="7" column="20" lean-forward="true" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+            <marker date="1553742579306" expanded="true" signature="118:123" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
