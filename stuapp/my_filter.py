@@ -3,7 +3,8 @@ from markdown import markdown
 
 regster = Library()
 
-# markdown
+
 @regster.filter
 def md(value):
+    print('hello')
     return markdown(value)
